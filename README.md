@@ -13,20 +13,10 @@ I build intelligent, real-time applications that solve meaningful problems. Pass
     <td width="50%">
       <h3>🟠 LeetCode: <a href="https://leetcode.com/u/Niloy19/">Niloy19</a></h3>
       <img src="https://leetcard.jacoblin.cool/Niloy19?theme=light&ext=activity" alt="LeetCode Stats">
-      <ul>
-        <li><strong>63 Problems Solved</strong> (Python, C++)</li>
-        <li><strong>Specialized In:</strong> Two Pointers, Sliding Window, Bit Manipulation etc.
-        </li>
-      </ul>
     </td>
     <td width="50%">
       <h3>🔵 Codeforces: <a href="https://codeforces.com/profile/shahriarniloy14">shahriarniloy14</a></h3>
       <img src="https://codeforces-readme-stats.vercel.app/api/card?username=shahriarniloy14&theme=default" alt="Codeforces Stats">
-      <ul>
-        <li><strong>Current Rating:</strong> 747 (Max: 822)</li>
-        <li><strong>118 Problems Solved</strong></li>
-        <li><strong>28-Day Active Streak</strong></li>
-      </ul>
     </td>
   </tr>
 </table>
