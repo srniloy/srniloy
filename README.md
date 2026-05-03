@@ -11,8 +11,8 @@ I build intelligent, real-time applications that solve meaningful problems. Pass
 <table>
   <tr>
     <td width="50%">
-      <h3>🟠 LeetCode: <a href="https://leetcode.com/u/Niloy19/">Niloy19</a></h3>
-      <img src="https://leetcard.jacoblin.cool/Niloy19?theme=light&ext=activity" alt="LeetCode Stats">
+      <h3>🟠 LeetCode: <a href="https://leetcode.com/u/srniloy/">srniloy</a></h3>
+      <img src="https://leetcard.jacoblin.cool/srniloy?theme=light&ext=activity" alt="LeetCode Stats">
     </td>
     <td width="50%">
       <h3>🔵 Codeforces: <a href="https://codeforces.com/profile/shahriarniloy14">shahriarniloy14</a></h3>
